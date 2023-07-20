@@ -8,3 +8,4 @@ Step 1: download these files im about to provide and move it to "documents" (mak
 Step 2: download this shortcut here <a href = "https://www.icloud.com/shortcuts/c5f1eb601001427682081828901ac56c">Shortcut here :)</a> <br/>
 Step 3: Open Shortcuts app, right click on the shortcut and hit "Add To Dock" <br/>
 Step 4: everytime you want to use this, (every time roblox updates or you reinstall it) just close Roblox and open this and use it :) :trollface: <br/>
+Step 5: Profit
