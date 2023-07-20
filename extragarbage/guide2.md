@@ -1,5 +1,5 @@
-# Hey. </br>
-## Welcome to my guide! </br>
+# Hey. <br/>
+## Welcome to my guide! <br/>
 ### Want a easy Mac Shortcut? (features: OOF SOUND replacement and menu bar removal / addition) <br/>
 First you may be thinking, why would you need this? Well.. Retrostudio doesnt have the oof sound because of the roblox client and the roblox button is in the way, getting rid of immersion. <br/>
 Step 1: download these files im about to provide and move it to "documents" (make sure its exactly this). the files are <a href = "https://github.com/randompea/randompea.github.io/blob/main/robloxhelper.zip">here :)</a> TO DOWNLOAD, RIGHT CLICK AND HIT "DOWNLOAD LINKED FILE" <br/>
