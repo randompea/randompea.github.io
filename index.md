@@ -9,6 +9,6 @@ import images? "<img src="imagelols.com" alt="namelols" border="0"></a> <br />
 
 ## whats up welcome to my garbage website attempt <br />
 just testing haha. <br />
-QuadsMode9 on top <br />
+random on top (i am the coolest redditor ever) <br />
 now... we will try to import an IMAGE!! <img src="https://i.ibb.co/gz1JV2x/Blobmelt.png" alt="Blobmelt" border="0"></a> <br />
-now we will try to REDIRECT you!!! <a href = "https://quadsYT.github.io/extragarbage/guide1.md">here!!!!</a> <br />
+now we will try to REDIRECT you!!! <a href = "https://randompea.github.io/extragarbage/guide1.md">here!!!!</a> <br />
