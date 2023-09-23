@@ -10,4 +10,5 @@ import images? "<img src="imagelols.com" alt="namelols" border="0"></a> <br />
 ## whats up welcome to my garbage website attempt <br />
 just testing haha. <br />
 random on top (i am the coolest redditor ever) <br />
-now... we will try to import an IMAGE!! <img src="https://i.ibb.co/gz1JV2x/Blobmelt.png" alt="Blobmelt" border="0"></a> <br />
+now... we will try to import an IMAGE!! <img src="https://i.ibb.co/gz1JV2x/Blobmelt.png" alt="Blobmelt" border="0"> <br />
+graaaaah
