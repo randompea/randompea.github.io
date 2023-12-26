@@ -1,14 +1,2 @@
-<!---
-wassup who ever is reading this haha
-how to do things?
-use # for text size
-redirect --- <a href = "website.com">(nameshown)</a> <br />
-how to do break? <br />
-import images? "<img src="imagelols.com" alt="namelols" border="0"></a> <br />
---->
-
-## whats up welcome to my garbage website attempt <br />
-just testing haha. <br />
-random on top (i am the coolest redditor ever) <br />
-now... we will try to import an IMAGE!! <img src="https://i.ibb.co/gz1JV2x/Blobmelt.png" alt="Blobmelt" border="0"> <br />
-graaaaah
+# YOU WILL NOT BE MISSED MRS MARSHELL
+![Will NOT be missed](/idiot.png)
