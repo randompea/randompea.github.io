@@ -12,7 +12,11 @@
         function redirectToURL() {
             var urlInput = document.getElementById("urlInput").value;
             if (urlInput.trim() !== "") {
-                window.location.href = urlInput;
+                // Check if the URL starts with "http://" or "https://"
+                if (!/^(https?:\/\/)/.test(urlInput)) {
+                    urlInput = "https://" + urlInput; // Add "https://" if missing
+                }
+                window.location.replace(urlInput);
             }
         }
     </script>
