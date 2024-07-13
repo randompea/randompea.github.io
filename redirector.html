@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>URL Redirect</title>
+</head>
+<body>
+    <label for="urlInput">Enter URL:</label>
+    <input type="text" id="urlInput" placeholder="https://example.com">
+    <button onclick="redirectToURL()">Go</button>
+
+    <script>
+        function redirectToURL() {
+            var urlInput = document.getElementById("urlInput").value;
+            if (urlInput.trim() !== "") {
+                window.location.href = urlInput;
+            }
+        }
+    </script>
+</body>
+</html>
